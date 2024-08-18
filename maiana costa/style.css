@@ -1,0 +1,93 @@
+.container {
+    display: flex;
+    flex-direction: nowrap;
+}
+
+header {
+    background-color: rgb(149, 149, 228);
+}
+
+.img1 {
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+    border-radius: 100px 100px 100px 100px;
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    border-radius: 100px 100px 100px 100px;
+    width: 20px;
+    height: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+}
+
+h3 {
+    padding-left: 5px;
+}
+
+
+.divum {
+    display: inline-block;
+}
+
+.divdois {
+    display: inline-block;
+    text-align: left;
+}
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(149, 149, 228);
+    width: 126px;
+    height: 27px;
+}
+
+.ed {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(149, 149, 228);
+    width: 115px;
+    height: 27px;
+}
+
+.ct {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(149, 149, 228);
+    width: 85px;
+    height: 27px;
+}
+
+.hb {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(149, 149, 228);
+    width: 134px;
+    height: 27px;
+}
+
+.ctt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(149, 149, 228);
+    width: 105px;
+    height: 27px;
+}
+
+body {
+    background-color: gainsboro;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
